@@ -1,2 +1,2 @@
 # Easy-Meals-Online-Food-Ordering-Website
-This website helps users order their meal online from any restaurant of their choice. The restaurant owners can manage their menu online and customers can track their order.
+A website-based platform built for Restaurant Owners and Customers. restaurant Owners can register themselves on the platform and can manage the menu of their Restaurant. The Customers can register themselves with their contact details and can start ordering their meals online from a restaurant of their choice.
