@@ -1,7 +1,7 @@
 <!--
 	Author: Vaishnavi Killekar
 	Date: November 2017
-	Description: PHP file used to add a new User's details to the database.
+	Description: PHP file used to add a new User's details to the database and password is encrypted using md5.
 -->
 
 <?php
